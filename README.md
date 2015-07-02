@@ -6,6 +6,16 @@ Visual C# 2008 Express
 （最新版のVisual StudioでもソースをインポートすればOKだと思います。）
 
 
+ファイル構成について
+
+FW_Circuitフォルダ
+FW_v105_TonePedal
+effect-pedal_20150424_sch.pdf（回路図）
+
+Configuration_toolフォルダ
+PC_ver101_20150626
+
+
 ファームウェアの書き換え手順
 
 
@@ -18,3 +28,8 @@ USBをつなげた状態で、TONE１のSWを１と２の間にしてLEDが点滅する状態に、TONE２のSW
 ２．HEXを書き込む。
 
 ３．SWを１～４のいずれかにして、USBケーブルを指し直す。
+
+
+
+
+
